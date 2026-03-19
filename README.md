@@ -6,3 +6,7 @@ I asked Gemini to create a Money Stuff column for Zemlincoin - here's what I got
 * [A prospectus](prospectus.md)
 * [An executive letter](executive-letter.md)
 * [an explainer of proof-of-maintenance](pom.md)
+
+### On Gemini and a new thing
+
+I asked Gemini to create info [about a new project](Ethereum_Cross-Group_Effort.md)
